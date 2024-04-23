@@ -6,3 +6,8 @@ Refer to the report for indepth analysis of the code and to see a working demo
 Learning Outcomes-
 - Since I am not very proficient in Front end development the UI is poor and something that could be worked on.
 - The MySql Tables could have been more optimized using Procedures and Triggers but our main logic lies in the python script.
+
+Contributors:
+- Arnav Jalan
+- Arnav Aditya @Arnavadi19
+- Rachit Sen @GameCorpGG
